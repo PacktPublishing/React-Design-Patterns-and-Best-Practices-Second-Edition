@@ -1,0 +1,33 @@
+{
+  "name": "geolocation",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/preset-env": "^7.3.4",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.5",
+    "express": "^4.16.4",
+    "isomorphic-fetch": "^2.2.1",
+    "prop-types": "^15.7.2",
+    "radium": "^0.25.1",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "styled-components": "^4.1.3",
+    "webpack": "^4.29.6",
+    "webpack-node-externals": "^1.7.2"
+  },
+  "scripts": {
+    "build": "webpack",
+    "start": "node ./dist/server"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "webpack-cli": "^3.2.3"
+  }
+}
