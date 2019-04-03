@@ -58,9 +58,6 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Hands-on Full-Stack Web Development with GraphQL and React  [[Packt]](https://prod.packtpub.com/in//web-development/hands-full-stack-web-development-graphql-and-react?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1789134528)
 
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
-
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
 
 ## Get to Know the Author
 **Carlos Santana Roldán**
