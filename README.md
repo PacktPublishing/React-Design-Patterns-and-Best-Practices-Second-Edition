@@ -29,14 +29,14 @@ All of the code is organized into folders. For example, Chapter02.
 The code will look like the following:
 ```
 const Button = React.createClass({
-getInitialState() {
-return {
-text: 'Click me!'
-};
-},
-render() {
-return <button>{this.state.text}</button>;
-}
+    getInitialState() {
+      return {
+        text: 'Click me!'
+      };
+    },
+    render() {
+      return <button>{this.state.text}</button>;
+    }
 });
 ```
 
