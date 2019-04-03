@@ -7,10 +7,16 @@ This is the code repository for [](https://prod.packtpub.com/in/web-development/
 **Design, build and deploy production-ready web applications using standard industry practices**
 
 ## What is this book about?
-0
+React is an adaptable JavaScript library for building complex UIs from small, detached bits called components. This book is designed to take you through the most valuable design patterns in React, helping you learn how to apply design patterns and best practices in real-life situations.
+You’ll get started by understanding the internals of React, in addition to covering Babel 7 and Create React App 2.0, which will help you write clean and maintainable code. To build on your skills, you will focus on concepts such as class components, stateless components, and pure components. You'll learn about new React features, such as the context API and React Hooks that will enable you to build components, which will be reusable across your applications. The book will then provide insights into the techniques of styling React components and optimizing them to make applications faster and more responsive. In the concluding chapters, you’ll discover ways to write tests more effectively and learn how to contribute to React and its ecosystem.
+By the end of this book, you will be equipped with the skills you need to tackle any developmental setbacks when working with React. You’ll be able to make your applications more flexible, efficient, and easy to maintain, thereby giving your workflow a boost when it comes to speed, without reducing quality.
 
 This book covers the following exciting features:
-
+*Get familiar with the new React features,like context API and React Hooks
+Learn the techniques of styling and optimizing React components
+Make components communicate with each other by applying consolidate patterns
+Use server-side rendering to make applications load faster
+Write a comprehensive set of tests to create robust and maintainable code
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789530172) today!
 
