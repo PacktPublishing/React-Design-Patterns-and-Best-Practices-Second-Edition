@@ -1,4 +1,7 @@
-# 
+# React Design Patterns and Best Practices - Second Edition
+
+<a href="https://prod.packtpub.com/in/web-development/react-design-patterns-and-best-practices-second-edition?utm_source=Github&utm_medium=Repository&utm_campaign=9781789530179"><img src="https://prod.packtpub.com/media/catalog/product/cache/a22c7d190d97ca25f5f1089471ab8502/b/1/b11439_mockupcover_0.png" alt="React Design Patterns and Best Practices - Second Edition" height="256px" align="right"></a>
+
 
 <a href="https://prod.packtpub.com/in/web-development/react-design-patterns-and-best-practices-second-edition?utm_source=github&utm_medium=repository&utm_campaign="><img src="" alt="" height="256px" align="right"></a>
 
