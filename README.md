@@ -12,11 +12,11 @@ You’ll get started by understanding the internals of React, in addition to cov
 By the end of this book, you will be equipped with the skills you need to tackle any developmental setbacks when working with React. You’ll be able to make your applications more flexible, efficient, and easy to maintain, thereby giving your workflow a boost when it comes to speed, without reducing quality.
 
 This book covers the following exciting features:
-*Get familiar with the new React features,like context API and React Hooks
-Learn the techniques of styling and optimizing React components
-Make components communicate with each other by applying consolidate patterns
-Use server-side rendering to make applications load faster
-Write a comprehensive set of tests to create robust and maintainable code
+* Get familiar with the new React features,like context API and React Hooks
+* Learn the techniques of styling and optimizing React components
+* Make components communicate with each other by applying consolidate patterns
+* Use server-side rendering to make applications load faster
+* Write a comprehensive set of tests to create robust and maintainable code
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789530172) today!
 
