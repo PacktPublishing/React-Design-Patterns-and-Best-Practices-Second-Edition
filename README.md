@@ -68,7 +68,7 @@ Carlos Santana Roldán is a senior web developer with more than 12 years of expe
 
 
 
-## Other books by the authors
+## Another book by the author
 * [React Cookbook](https://prod.packtpub.com/in//web-development/react-cookbook?utm_source=Github&utm_medium=Repository&utm_campaign=9781783980727)
 
 
