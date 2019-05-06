@@ -5,7 +5,7 @@
 
 <a href="https://prod.packtpub.com/in/web-development/react-design-patterns-and-best-practices-second-edition?utm_source=github&utm_medium=repository&utm_campaign="><img src="" alt="" height="256px" align="right"></a>
 
-This is the code repository for [](https://prod.packtpub.com/in/web-development/react-design-patterns-and-best-practices-second-edition?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
+This is the code repository for [React Design Patterns and Best Practices - Second Edition](https://prod.packtpub.com/in/web-development/react-design-patterns-and-best-practices-second-edition?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
 
 **Design, build and deploy production-ready web applications using standard industry practices**
 
