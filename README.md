@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # React Design Patterns and Best Practices - Second Edition
 
 <a href="https://prod.packtpub.com/in/web-development/react-design-patterns-and-best-practices-second-edition?utm_source=Github&utm_medium=Repository&utm_campaign=9781789530179"><img src="https://prod.packtpub.com/media/catalog/product/cache/a22c7d190d97ca25f5f1089471ab8502/b/1/b11439_mockupcover_0.png" alt="React Design Patterns and Best Practices - Second Edition" height="256px" align="right"></a>
